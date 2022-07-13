@@ -1,0 +1,94 @@
+<style>
+body {background-color: whitesmoke;}
+h1   {color: blue;}
+
+.paragrafi{ width:420px;
+height: :100px;
+background-color: greenyellow;
+padding: 10px; }
+.autori{text-align: right;
+font-style: italic;}
+
+.container{
+
+	background-color: white;
+	width: 100%;
+	height: 90%;
+
+
+}
+
+.kotfare{
+	justify-content: center;
+}
+.kreu{
+	background-color: #1F2937;
+	width:100% ;
+	height: 300px;
+	
+
+}
+
+.artikujt{
+	width: 70%;
+	background-color: white;
+	height: 550px;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	
+
+
+}
+
+.karta{
+	width: 200px;
+	height: 300px;
+	background-color: white;
+	display: left;
+
+}
+
+.foto{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	border-radius: 10px;
+	border: #3232e9ad;
+	border-style: solid;
+}
+
+.karta p{
+	color: black;
+	margin: 5px;
+
+}
+.paragrafi p{
+	width: 70%;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.paragrafi{
+	color: black;
+	width: 100%;
+	height: 250px;
+	background-color: #cdcdcd;
+	padding: 10px;
+}
+.titulli-kartave{
+	text-align: center;
+	display: block;
+	width: 70%;
+	height: 50px;
+	margin-left: 15%;
+	margin-top: 50px;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+</style>
